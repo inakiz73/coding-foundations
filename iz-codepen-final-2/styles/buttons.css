@@ -1,0 +1,75 @@
+.btn {
+    background-color: #464646;
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 10px 15px;
+    margin-right: 30px;
+    transition: 0.3s;
+    border: #464646;
+    border-radius: 6px;
+
+}
+
+.btn:hover {
+    background-color: #ffffff;
+    color: #464646;
+    cursor: pointer;
+    
+}
+
+
+.btn-su {
+    background-color: #4BCE79;
+    color: #111111;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px 15px;
+    margin-right: 30px;
+    transition: 0.3s;
+    border: #464646;
+    border-radius: 6px;
+}
+
+.btn-su:hover {
+    background-color: #111111;
+    color: #4BCE79;
+    cursor: pointer;
+}
+
+.btn-lm {
+    background-color: #111111;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px 15px;
+    margin-right: 30px;
+    transition: 0.3s;
+    border: #464646;
+    border-radius: 6px;
+}
+
+.btn-lm:hover {
+    background-color: white;
+    color: #111111;
+    cursor: pointer;
+}
+
+
+.centered-btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+
+.fa-solid {
+    color: rgb(14, 229, 132);
+}
+
+.fa-magnifying-glass {
+    color: rgb(135, 135, 135);
+    font-size: 28px;
+    padding-right: 30px;
+    padding-left: 10px;
+    margin: 0;
+}
